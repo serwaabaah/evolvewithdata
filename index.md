@@ -1,4 +1,3 @@
-## Let's evolve with data
 
 You can use the [editor on GitHub](https://github.com/serwaabaah/evolvewithdata/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
